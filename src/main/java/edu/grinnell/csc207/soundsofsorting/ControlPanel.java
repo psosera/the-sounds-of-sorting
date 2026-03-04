@@ -1,4 +1,4 @@
-package edu.grinnell.csc207.sorts;
+package edu.grinnell.csc207.soundsofsorting;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -11,7 +11,7 @@ import javax.swing.JButton;
 import javax.swing.JComboBox;
 import javax.swing.JPanel;
 
-import edu.grinnell.csc207.sorts.events.SortEvent;
+import edu.grinnell.csc207.soundsofsorting.events.SortEvent;
 
 /**
  * The Control Panel houses the GUI for interacting with the Sounds of

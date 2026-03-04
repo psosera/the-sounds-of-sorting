@@ -1,9 +1,9 @@
-package edu.grinnell.csc207.sorts;
+package edu.grinnell.csc207.soundsofsorting;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.grinnell.csc207.sorts.events.*;
+import edu.grinnell.csc207.soundsofsorting.events.*;
 
 /**
  * A collection of sorting algorithms.

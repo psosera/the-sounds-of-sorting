@@ -1,4 +1,4 @@
-package edu.grinnell.csc207.sorts.events;
+package edu.grinnell.csc207.soundsofsorting.events;
 import java.util.List;
 
 /**

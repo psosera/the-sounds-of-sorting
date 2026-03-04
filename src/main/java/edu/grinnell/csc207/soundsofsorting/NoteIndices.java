@@ -1,4 +1,4 @@
-package edu.grinnell.csc207.sorts;
+package edu.grinnell.csc207.soundsofsorting;
 
 import java.util.ArrayList;
 import java.util.Collections;
